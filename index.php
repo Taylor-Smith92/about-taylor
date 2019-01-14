@@ -3,10 +3,11 @@
 	<head>
 		<meta charset="utf-8">
 		<title>About Taylor</title>
+		<link rel="stylesheet" href="styles.css"
 	</head>
 
 	<body>
-		<p>
+		<p class="firstParagraph">
 			My name is Taylor Smith.
 		</p>
 		<p>
@@ -18,7 +19,7 @@
 		<p>
 			I like Netflix.
 		</p>
-		<img src="IMG_3251.jpg" alt="This is a picture of Taylor">
+		<img src="img-3251.jpg" alt="This is a picture of Taylor" class="size">
 
 	</body>
 </html>
